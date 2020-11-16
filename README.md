@@ -1,2 +1,1 @@
-# example-sql
-Example SQL
+# Yazilim Land  - Example SQL
